@@ -1,0 +1,69 @@
+[[main]]
+none = "none"
+
+[[main]]
+name = "About"
+pageRef = "about"
+weight = 30
+
+[[main]]
+name = "Credits"
+pageRef = "credits"
+weight = 20
+
+[[main]]
+name = "Portfolio"
+pageRef = "projects"
+weight = 10
+
+[[main]]
+identifier = "email"
+pre = "envelope"
+url = "mailto:massimiliano.truzzi@gmail.com"
+weight = 40
+
+[[footer]]
+none = "none"
+
+[[footer]]
+name = ""
+pre = "instagram"
+url = "https://www.instagram.com/lostfocusremedies/"
+identifier = "FAW9IAmPit"
+weight = 10
+
+[[footer]]
+name = ""
+pre = "linkedin"
+url = "https://www.linkedin.com/in/massimiliano-truzzi-4a22b320/"
+identifier = "Rk3vEIXtPW"
+weight = 20
+
+[[footer]]
+name = ""
+pre = "behance"
+url = "https://https://www.behance.net/massitruzzi"
+identifier = "mXRAVCroYc"
+weight = 30
+
+[[footer]]
+name = ""
+pre = "artstation"
+url = "https://www.artstation.com/massimilianotruzzi7"
+identifier = "c5qEKOTxvH"
+weight = 40
+
+[[footer]]
+name = ""
+pre = "bluesky"
+url = "https://bsky.app/profile/folmer-hat.bsky.social"
+identifier = "1dpwSoRpYg"
+weight = 50
+
+[[footer]]
+name = ""
+pre = "email"
+url = "mailto:massimiliano.truzzi@gmail.com"
+identifier = "sOikixvYeb"
+weight = 9999
+

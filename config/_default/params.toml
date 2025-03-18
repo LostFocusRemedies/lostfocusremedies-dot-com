@@ -1,0 +1,122 @@
+colorScheme = "avocado"
+defaultAppearance = "dark"
+autoSwitchAppearance = false
+enableSearch = true
+enableCodeCopy = true
+replyByEmail = true
+disableImageOptimization = false
+disableTextInHeader = false
+giteaDefaultServer = "https://git.fsfe.org"
+forgejoDefaultServer = "https://v8.next.forgejo.org"
+defaultBackgroundImage = "lfr-studio-09.jpg"
+smartTOC = true
+smartTOCHideUnfocusedChildren = true
+
+[header]
+layout = "fixed-fill-blur"
+
+[footer]
+showMenu = false
+showCopyright = true
+showThemeAttribution = true
+showAppearanceSwitcher = true
+showScrollToTop = true
+
+[homepage]
+layout = "background"
+showRecent = false
+showRecentItems = "3"
+showMoreLink = true
+showMoreLinkDest = "projects"
+cardView = true
+cardViewScreenWidth = false
+layoutBackgroundBlur = true
+homepageImage = "lfr-studio-09.jpg"
+
+[article]
+showDate = true
+showViews = false
+showLikes = false
+showDateOnlyInArticle = false
+showDateUpdated = false
+showAuthor = true
+showAuthorBottom = true
+showHero = true
+layoutBackgroundBlur = true
+layoutBackgroundHeaderSpace = false
+showBreadcrumbs = true
+showDraftLabel = false
+showEdit = false
+editAppendPath = true
+seriesOpened = false
+showHeadingAnchors = true
+showPagination = false
+invertPagination = true
+showReadingTime = false
+showTableOfContents = true
+showTaxonomies = false
+showAuthorsBadges = false
+showWordCount = false
+showZenMode = true
+heroStyle = "background"
+sharingLinks = false
+showRelatedContent = false
+relatedContentLimit = 3
+
+[list]
+showHero = true
+layoutBackgroundBlur = true
+layoutBackgroundHeaderSpace = true
+showBreadcrumbs = false
+showSummary = true
+showViews = false
+showLikes = false
+showTableOfContents = false
+showCards = true
+orderByWeight = false
+groupByYear = false
+cardView = true
+cardViewScreenWidth = false
+constrainItemsWidth = false
+heroStyle = "background"
+
+[sitemap]
+excludedKinds = [ "taxonomy", "term" ]
+
+[taxonomy]
+showTermCount = true
+showHero = false
+showBreadcrumbs = false
+showViews = false
+showLikes = false
+showTableOfContents = false
+cardView = false
+
+[term]
+showHero = false
+showBreadcrumbs = false
+showViews = false
+showLikes = false
+showTableOfContents = true
+groupByYear = false
+cardView = false
+cardViewScreenWidth = false
+
+[firebase]
+
+[fathomAnalytics]
+
+[umamiAnalytics]
+
+[selineAnalytics]
+
+[buymeacoffee]
+identifier = false
+globalWidget = false
+globalWidgetMessage = false
+globalWidgetColor = false
+globalWidgetPosition = false
+
+[verification]
+
+[rssnext]

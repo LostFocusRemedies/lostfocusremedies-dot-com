@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Example on Lost Focus Remedies</title>
+    <link>https://www.lostfocusremedies.com/public/tags/example/</link>
+    <description>Recent content in Example on Lost Focus Remedies</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <managingEditor>massimiliano.truzzi@gmail.com (Massimiliano Truzzi)</managingEditor>
+    <webMaster>massimiliano.truzzi@gmail.com (Massimiliano Truzzi)</webMaster>
+    <copyright>© 2025 Massimiliano Truzzi</copyright>
+    <lastBuildDate>Sat, 15 Mar 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://www.lostfocusremedies.com/public/tags/example/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>about me </title>
+      <link>https://www.lostfocusremedies.com/public/about/</link>
+      <pubDate>Sat, 15 Mar 2025 00:00:00 +0000</pubDate>
+      <author>massimiliano.truzzi@gmail.com (Massimiliano Truzzi)</author>
+      <guid>https://www.lostfocusremedies.com/public/about/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>credits</title>
+      <link>https://www.lostfocusremedies.com/public/credits/</link>
+      <pubDate>Sat, 15 Mar 2025 00:00:00 +0000</pubDate>
+      <author>massimiliano.truzzi@gmail.com (Massimiliano Truzzi)</author>
+      <guid>https://www.lostfocusremedies.com/public/credits/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Silent Hill Intro - Remake</title>
+      <link>https://www.lostfocusremedies.com/public/projects/1742028624236-silent-hill-intro---remake/</link>
+      <pubDate>Sat, 15 Mar 2025 00:00:00 +0000</pubDate>
+      <author>massimiliano.truzzi@gmail.com (Massimiliano Truzzi)</author>
+      <guid>https://www.lostfocusremedies.com/public/projects/1742028624236-silent-hill-intro---remake/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>silent hill work in progress </title>
+      <link>https://www.lostfocusremedies.com/public/posts/1742028779820-silent-hill-work-in-progress-/</link>
+      <pubDate>Sat, 15 Mar 2025 00:00:00 +0000</pubDate>
+      <author>massimiliano.truzzi@gmail.com (Massimiliano Truzzi)</author>
+      <guid>https://www.lostfocusremedies.com/public/posts/1742028779820-silent-hill-work-in-progress-/</guid>
+      <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://www.lostfocusremedies.com/public/posts/1742028779820-silent-hill-work-in-progress-/featured.png" />
+    </item>
+    
+    <item>
+      <title>Yolo-team!</title>
+      <link>https://www.lostfocusremedies.com/public/projects/1742029050009-yolo-team/</link>
+      <pubDate>Sat, 15 Mar 2025 00:00:00 +0000</pubDate>
+      <author>massimiliano.truzzi@gmail.com (Massimiliano Truzzi)</author>
+      <guid>https://www.lostfocusremedies.com/public/projects/1742029050009-yolo-team/</guid>
+      <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://www.lostfocusremedies.com/public/projects/1742029050009-yolo-team/featured.png" />
+    </item>
+    
+  </channel>
+</rss>

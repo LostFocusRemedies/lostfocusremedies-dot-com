@@ -1,0 +1,27 @@
+languageCode = "en"
+languageName = "English"
+weight = 1
+title = "Lost Focus Remedies"
+
+[params]
+displayName = "English"
+isoCode = "en"
+rtl = false
+dateFormat = "2 January 2006"
+logo = "logo_munich_round.png"
+description = "The Personal website of LFR. Season to taste."
+
+[params.author]
+name = "Massimiliano Truzzi"
+email = "massimiliano.truzzi@gmail.com"
+image = "profile_cropped.jpg"
+headline = "3D ARTIST"
+bio = "Spicy animator, seasoned to taste."
+links = [
+    { instagram = "https://www.instagram.com/lostfocusremedies/" },
+    { linkedin = "https://www.linkedin.com/in/massimiliano-truzzi-4a22b320/" },
+    { behance = "https://www.behance.net/massitruzzi" },
+    { bluesky = "https://bsky.app/profile/folmer-hat.bsky.social" },
+    { artstation = "https://www.artstation.com/massimilianotruzzi7" },
+    { email = "mailto:massimiliano.truzzi@gmail.com" },
+]
