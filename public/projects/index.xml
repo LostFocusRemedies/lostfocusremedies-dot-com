@@ -2,43 +2,53 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Projects on Lost Focus Remedies</title>
-    <link>https://www.lostfocusremedies.com/public/projects/</link>
+    <link>http://localhost:1313/projects/</link>
     <description>Recent content in Projects on Lost Focus Remedies</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <managingEditor>massimiliano.truzzi@gmail.com (Massimiliano Truzzi)</managingEditor>
     <webMaster>massimiliano.truzzi@gmail.com (Massimiliano Truzzi)</webMaster>
     <copyright>© 2025 Massimiliano Truzzi</copyright>
-    <lastBuildDate>Sat, 15 Mar 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://www.lostfocusremedies.com/public/projects/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 22 Mar 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/projects/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
-      <title>Adidas</title>
-      <link>https://www.lostfocusremedies.com/public/projects/1742028508036-adidas/</link>
-      <pubDate>Sat, 15 Mar 2025 00:00:00 +0000</pubDate>
+      <title>3D Animation Reel</title>
+      <link>http://localhost:1313/projects/010_3danimationreel/</link>
+      <pubDate>Sat, 22 Mar 2025 00:00:00 +0000</pubDate>
       <author>massimiliano.truzzi@gmail.com (Massimiliano Truzzi)</author>
-      <guid>https://www.lostfocusremedies.com/public/projects/1742028508036-adidas/</guid>
+      <guid>http://localhost:1313/projects/010_3danimationreel/</guid>
       <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://www.lostfocusremedies.com/public/projects/1742028508036-adidas/featured.jpg" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/projects/010_3danimationreel/featured_optimized.png" />
     </item>
     
     <item>
-      <title>Silent Hill Intro - Remake</title>
-      <link>https://www.lostfocusremedies.com/public/projects/1742028624236-silent-hill-intro---remake/</link>
-      <pubDate>Sat, 15 Mar 2025 00:00:00 +0000</pubDate>
+      <title>General Reel</title>
+      <link>http://localhost:1313/projects/010_stompyreel/</link>
+      <pubDate>Fri, 21 Mar 2025 00:00:00 +0000</pubDate>
       <author>massimiliano.truzzi@gmail.com (Massimiliano Truzzi)</author>
-      <guid>https://www.lostfocusremedies.com/public/projects/1742028624236-silent-hill-intro---remake/</guid>
+      <guid>http://localhost:1313/projects/010_stompyreel/</guid>
       <description></description>
-      
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/projects/010_stompyreel/featured_optimized.png" />
     </item>
     
     <item>
-      <title>Yolo-team!</title>
-      <link>https://www.lostfocusremedies.com/public/projects/1742029050009-yolo-team/</link>
-      <pubDate>Sat, 15 Mar 2025 00:00:00 +0000</pubDate>
+      <title>Rigging Reel</title>
+      <link>http://localhost:1313/projects/1742577626446-riggingreel/</link>
+      <pubDate>Fri, 21 Mar 2025 00:00:00 +0000</pubDate>
       <author>massimiliano.truzzi@gmail.com (Massimiliano Truzzi)</author>
-      <guid>https://www.lostfocusremedies.com/public/projects/1742029050009-yolo-team/</guid>
+      <guid>http://localhost:1313/projects/1742577626446-riggingreel/</guid>
       <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://www.lostfocusremedies.com/public/projects/1742029050009-yolo-team/featured.png" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/projects/1742577626446-riggingreel/featured.png" />
+    </item>
+    
+    <item>
+      <title>Silent Hill - Remake</title>
+      <link>http://localhost:1313/projects/1742460692136-sh-intro-remake/</link>
+      <pubDate>Thu, 20 Mar 2025 00:00:00 +0000</pubDate>
+      <author>massimiliano.truzzi@gmail.com (Massimiliano Truzzi)</author>
+      <guid>http://localhost:1313/projects/1742460692136-sh-intro-remake/</guid>
+      <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/projects/1742460692136-sh-intro-remake/featured_optimized.png" />
     </item>
     
   </channel>

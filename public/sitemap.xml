@@ -3,55 +3,49 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
 
   <url>
-    <loc>https://www.lostfocusremedies.com/public/about/</loc>
+    <loc>http://localhost:1313/projects/010_3danimationreel/</loc>
+    <lastmod>2025-03-22T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/</loc>
+    <lastmod>2025-03-22T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/projects/</loc>
+    <lastmod>2025-03-22T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/projects/010_stompyreel/</loc>
+    <lastmod>2025-03-21T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/projects/1742577626446-riggingreel/</loc>
+    <lastmod>2025-03-21T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/projects/1742460692136-sh-intro-remake/</loc>
+    <lastmod>2025-03-20T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/about/</loc>
     <lastmod>2025-03-15T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://www.lostfocusremedies.com/public/projects/1742028508036-adidas/</loc>
-    <lastmod>2025-03-15T00:00:00+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://www.lostfocusremedies.com/public/</loc>
-    <lastmod>2025-03-15T00:00:00+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://www.lostfocusremedies.com/public/credits/</loc>
-    <lastmod>2025-03-15T00:00:00+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://www.lostfocusremedies.com/public/posts/</loc>
-    <lastmod>2025-03-15T00:00:00+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://www.lostfocusremedies.com/public/projects/</loc>
-    <lastmod>2025-03-15T00:00:00+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://www.lostfocusremedies.com/public/projects/1742028624236-silent-hill-intro---remake/</loc>
-    <lastmod>2025-03-15T00:00:00+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://www.lostfocusremedies.com/public/posts/1742028779820-silent-hill-work-in-progress-/</loc>
-    <lastmod>2025-03-15T00:00:00+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://www.lostfocusremedies.com/public/projects/1742029050009-yolo-team/</loc>
+    <loc>http://localhost:1313/credits/</loc>
     <lastmod>2025-03-15T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>

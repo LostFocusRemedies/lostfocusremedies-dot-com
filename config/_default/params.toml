@@ -1,7 +1,7 @@
-colorScheme = "avocado"
+colorScheme = "autumn"
 defaultAppearance = "dark"
 autoSwitchAppearance = false
-enableSearch = true
+enableSearch = false
 enableCodeCopy = true
 replyByEmail = true
 disableImageOptimization = false
@@ -19,7 +19,7 @@ layout = "fixed-fill-blur"
 showMenu = false
 showCopyright = true
 showThemeAttribution = true
-showAppearanceSwitcher = true
+showAppearanceSwitcher = false
 showScrollToTop = true
 
 [homepage]
@@ -34,7 +34,7 @@ layoutBackgroundBlur = true
 homepageImage = "lfr-studio-09.jpg"
 
 [article]
-showDate = true
+showDate = false
 showViews = false
 showLikes = false
 showDateOnlyInArticle = false
@@ -50,14 +50,14 @@ showEdit = false
 editAppendPath = true
 seriesOpened = false
 showHeadingAnchors = true
-showPagination = false
+showPagination = true
 invertPagination = true
 showReadingTime = false
-showTableOfContents = true
+showTableOfContents = false
 showTaxonomies = false
 showAuthorsBadges = false
 showWordCount = false
-showZenMode = true
+showZenMode = false
 heroStyle = "background"
 sharingLinks = false
 showRelatedContent = false
@@ -66,7 +66,7 @@ relatedContentLimit = 3
 [list]
 showHero = true
 layoutBackgroundBlur = true
-layoutBackgroundHeaderSpace = true
+layoutBackgroundHeaderSpace = false
 showBreadcrumbs = false
 showSummary = true
 showViews = false

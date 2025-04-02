@@ -7,7 +7,7 @@ pageRef = "about"
 weight = 30
 
 [[main]]
-name = "Credits"
+name = "Resume"
 pageRef = "credits"
 weight = 20
 
@@ -21,6 +21,11 @@ identifier = "email"
 pre = "envelope"
 url = "mailto:massimiliano.truzzi@gmail.com"
 weight = 40
+
+# [[footer]]
+#   name = "Tags"
+#   pageRef = "tags"
+#   weight = 30
 
 [[footer]]
 none = "none"

@@ -2,23 +2,23 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on Lost Focus Remedies</title>
-    <link>https://www.lostfocusremedies.com/public/posts/</link>
+    <link>http://localhost:1313/posts/</link>
     <description>Recent content in Posts on Lost Focus Remedies</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <managingEditor>massimiliano.truzzi@gmail.com (Massimiliano Truzzi)</managingEditor>
     <webMaster>massimiliano.truzzi@gmail.com (Massimiliano Truzzi)</webMaster>
     <copyright>© 2025 Massimiliano Truzzi</copyright>
-    <lastBuildDate>Sat, 15 Mar 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://www.lostfocusremedies.com/public/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 15 Mar 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>silent hill work in progress </title>
-      <link>https://www.lostfocusremedies.com/public/posts/1742028779820-silent-hill-work-in-progress-/</link>
+      <link>http://localhost:1313/posts/1742028779820-silent-hill-work-in-progress-/</link>
       <pubDate>Sat, 15 Mar 2025 00:00:00 +0000</pubDate>
       <author>massimiliano.truzzi@gmail.com (Massimiliano Truzzi)</author>
-      <guid>https://www.lostfocusremedies.com/public/posts/1742028779820-silent-hill-work-in-progress-/</guid>
+      <guid>http://localhost:1313/posts/1742028779820-silent-hill-work-in-progress-/</guid>
       <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://www.lostfocusremedies.com/public/posts/1742028779820-silent-hill-work-in-progress-/featured.png" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/1742028779820-silent-hill-work-in-progress-/featured.png" />
     </item>
     
   </channel>

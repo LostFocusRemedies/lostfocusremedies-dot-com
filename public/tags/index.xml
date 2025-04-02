@@ -2,41 +2,71 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Lost Focus Remedies</title>
-    <link>https://www.lostfocusremedies.com/public/tags/</link>
+    <link>http://localhost:1313/tags/</link>
     <description>Recent content in Tags on Lost Focus Remedies</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <managingEditor>massimiliano.truzzi@gmail.com (Massimiliano Truzzi)</managingEditor>
     <webMaster>massimiliano.truzzi@gmail.com (Massimiliano Truzzi)</webMaster>
     <copyright>© 2025 Massimiliano Truzzi</copyright>
-    <lastBuildDate>Sat, 15 Mar 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://www.lostfocusremedies.com/public/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 22 Mar 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Animation</title>
+      <link>http://localhost:1313/tags/animation/</link>
+      <pubDate>Sat, 22 Mar 2025 00:00:00 +0000</pubDate>
+      <author>massimiliano.truzzi@gmail.com (Massimiliano Truzzi)</author>
+      <guid>http://localhost:1313/tags/animation/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Characters</title>
+      <link>http://localhost:1313/tags/characters/</link>
+      <pubDate>Sat, 22 Mar 2025 00:00:00 +0000</pubDate>
+      <author>massimiliano.truzzi@gmail.com (Massimiliano Truzzi)</author>
+      <guid>http://localhost:1313/tags/characters/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Cg Artist</title>
+      <link>http://localhost:1313/tags/cg-artist/</link>
+      <pubDate>Fri, 21 Mar 2025 00:00:00 +0000</pubDate>
+      <author>massimiliano.truzzi@gmail.com (Massimiliano Truzzi)</author>
+      <guid>http://localhost:1313/tags/cg-artist/</guid>
+      <description></description>
+      
+    </item>
     
     <item>
       <title>Example</title>
-      <link>https://www.lostfocusremedies.com/public/tags/example/</link>
-      <pubDate>Sat, 15 Mar 2025 00:00:00 +0000</pubDate>
+      <link>http://localhost:1313/tags/example/</link>
+      <pubDate>Fri, 21 Mar 2025 00:00:00 +0000</pubDate>
       <author>massimiliano.truzzi@gmail.com (Massimiliano Truzzi)</author>
-      <guid>https://www.lostfocusremedies.com/public/tags/example/</guid>
+      <guid>http://localhost:1313/tags/example/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Tag</title>
-      <link>https://www.lostfocusremedies.com/public/tags/tag/</link>
-      <pubDate>Sat, 15 Mar 2025 00:00:00 +0000</pubDate>
+      <link>http://localhost:1313/tags/tag/</link>
+      <pubDate>Fri, 21 Mar 2025 00:00:00 +0000</pubDate>
       <author>massimiliano.truzzi@gmail.com (Massimiliano Truzzi)</author>
-      <guid>https://www.lostfocusremedies.com/public/tags/tag/</guid>
+      <guid>http://localhost:1313/tags/tag/</guid>
       <description></description>
       
     </item>
     
     <item>
-      <title>Yolo</title>
-      <link>https://www.lostfocusremedies.com/public/tags/yolo/</link>
+      <title>Credits</title>
+      <link>http://localhost:1313/tags/credits/</link>
       <pubDate>Sat, 15 Mar 2025 00:00:00 +0000</pubDate>
       <author>massimiliano.truzzi@gmail.com (Massimiliano Truzzi)</author>
-      <guid>https://www.lostfocusremedies.com/public/tags/yolo/</guid>
+      <guid>http://localhost:1313/tags/credits/</guid>
       <description></description>
       
     </item>
