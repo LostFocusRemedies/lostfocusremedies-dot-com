@@ -71,22 +71,9 @@ I'm proud of them... and they're proud of me! 😊
 
 ## TL:DR in short
 
-{{< chart >}}
-    type: "bar", 
-    data: {
-        labels: ["Feature Films", "TV Series", "Commercials - ShortFilms"],
-        datasets: [{
-            label: "Production contributed to ",
-            data: [7,8,8],
-        }]
-    } 
-
-
-{{< /chart >}}
-<!-- 
 7 Feature Films  
 8 TV Series  
-8 between Commercials and TV Specials   -->
+8 between Commercials and TV Specials  
 
 ## Professional Experience
 
